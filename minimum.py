@@ -1,0 +1,7 @@
+a=int(input("Enter First number:"))
+b=int(input("Enter Second number:"))
+c=int(input("Enter Third number:"))
+d=min(a,b,c)
+print("Minimum= ",d)
+# a=min(12,15,18)
+# print(" ",a)

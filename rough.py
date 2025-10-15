@@ -1,0 +1,7 @@
+str=("Welcome to Python Programmimg ")
+print(" ",str)
+print(" ",str[0])
+print(" ",str[11:17])
+print(" ",str[-1])
+print(str+"Everyone")
+print(str*4)

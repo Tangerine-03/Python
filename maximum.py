@@ -1,0 +1,7 @@
+a=int(input("Enter First number:"))
+b=int(input("Enter Second number:"))
+c=int(input("Enter Third number:"))
+d=max(a,b,c)
+print("Max= ",d)
+# a=max(12,15,18)
+# print(" ",a)
